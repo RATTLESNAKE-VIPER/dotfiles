@@ -1,4 +1,4 @@
-gcloud auth login
+# gcloud auth login
 
 teller env >.config/fabric/.env
 

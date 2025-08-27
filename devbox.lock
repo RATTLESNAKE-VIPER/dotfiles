@@ -49,6 +49,10 @@
         }
       }
     },
+    "github:NixOS/nixpkgs/nixpkgs-unstable": {
+      "last_modified": "2025-08-25T22:07:10Z",
+      "resolved": "github:NixOS/nixpkgs/84c256e42600cb0fdf25763b48d28df2f25a0c8b?lastModified=1756159630&narHash=sha256-ohMvsjtSVdT%2FbruXf5ClBh8ZYXRmD4krmjKrXhEvwMg%3D"
+    },
     "google-cloud-sdk@478.0.0": {
       "last_modified": "2024-07-07T16:08:25Z",
       "resolved": "github:NixOS/nixpkgs/ab82a9612aa45284d4adf69ee81871a389669a9e#google-cloud-sdk",
